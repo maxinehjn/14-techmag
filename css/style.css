@@ -7,6 +7,18 @@ html {
   scroll-behavior: smooth;
 }
 
+h2 {
+  font-size: 16px;
+}
+
+p {
+  font-size: 12px;
+}
+
+figcaption {
+  font-size: 10px;
+}
+
 body {
   max-width: 320px;
   margin: auto;
@@ -35,8 +47,9 @@ header {
 }
 
 main  {
-border-radius: 0;
-background-color: mediumspringgreen;
+  padding: 20px;
+  border-radius: 0;
+  background-color: white;
 }
 
 img {
@@ -86,7 +99,17 @@ button {
 
 footer {
   text-align: center;
-  padding: 5px 0px;
-  font-size: 0.8em;
-  margin-top: 25px;
+  padding: 5px 5px;
+  font-size: 10px;
+  margin-top: 5px;
+  border-width: 2px; 
+  border-style: solid; 
+  border-color: #00fca6;
+  color: white;
 }
+
+article {
+  background-color: white;
+
+}
+

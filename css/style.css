@@ -15,7 +15,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   padding: 5px 20px 5px 20px;
   text-align: left;
-  font-size: 17px; 
+  font-size: 17px;
 }
 
 header {
@@ -33,7 +33,6 @@ header {
   padding-bottom: 40px;
   color: white;
 }
-
 
 main  {
 border-radius: 0;
@@ -54,6 +53,37 @@ button {
 .card {
   background-color: mediumspringgreen;
 }
+
+
+.bgGreen {
+  background-color: #00fca6;
+}
+
+.bgWhite {
+  background-color: white;
+}
+
+.colorGreen {
+  color: #00fca6;
+}
+
+.colorWhite {
+  color: white;
+}
+
+.colorBlack {
+  color: black;
+}
+
+.container {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.item {
+  padding: 30px 25px;
+}
+
 footer {
   text-align: center;
   padding: 5px 0px;

@@ -57,6 +57,7 @@ img {
   margin: auto;
   display: block;
   height: auto;
+  box-shadow: 2px 2px 2px grey;
 }
 button {
   background-color: #444444;
@@ -111,5 +112,15 @@ footer {
 article {
   background-color: white;
 
+}
+
+figcaption {
+  font-size: 7.5px;
+  text-align: center;
+}
+
+a href {
+  font-size: 7px;
+  background: grey;
 }
 

@@ -35,13 +35,11 @@ body {
 }
 
 header {
-  background-image: linear-gradient(rgba(40, 37, 37,0.762), 
-  rgba(40, 37, 37,0.762)), url("../img/code.jpg");
   border: solid 2px white;
 }
 
 .site-header {
-  background-image: url(../img/code.jpg);
+  background-image: url (../c);
   border: 2px solid white;
   padding: 10px;
   box-sizing: border-box;

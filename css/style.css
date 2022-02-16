@@ -7,8 +7,13 @@ html {
   scroll-behavior: smooth;
 }
 
+html p {
+  font-size: 9px;
+}
+
 h1 {
   font-size: 16px;
+  font-style: bold;
 }
 
 h2 {
@@ -100,6 +105,11 @@ button {
 
 .item {
   padding: 30px 25px;
+  background-color: white;
+}
+
+.itembgGreenopacityblack {
+  background-image: url(../img/code.jpg);
 }
 
 footer {
@@ -115,7 +125,8 @@ footer {
 
 article {
   background-color: white;
-
+margin: 2px;
+padding: 10px;
 }
 
 figcaption {

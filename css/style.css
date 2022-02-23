@@ -44,7 +44,7 @@ header {
 }
 
 .site-header {
-  background-image: url (../c);
+  background-image: url(../img/code.jpg);
   border: 2px solid white;
   padding: 10px;
   box-sizing: border-box;
